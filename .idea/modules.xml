@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testrepo/testrepo.iml" filepath="$PROJECT_DIR$/testrepo/testrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testrepoProject.iml" filepath="$PROJECT_DIR$/testrepoProject.iml" />
+    </modules>
+  </component>
+</project>
+
